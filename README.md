@@ -34,8 +34,7 @@ This project evaluates and optimizes the aerodynamic performance of a quadcopter
 - Pressure and velocity fields analyzed to evaluate downwash quality
 
 <p align="center">
-  <img src="media/cfd_pressure.png" width="340">
-  <img src="media/cfd_velocity.png" width="340">
+  <img src="media/cfd_analysis.png" width="340">
 </p>
 
 ---
@@ -57,7 +56,7 @@ To improve performance, the following changes were made:
 - Increased rotational speed to **6500 RPM**
 
 <p align="center">
-  <img src="media/flow_trajectories.png" width="600">
+  <img src="media/goals_force_plot.png" width="600">
 </p>
 
 ---
