@@ -73,7 +73,6 @@ This validated the effectiveness of data-driven design iteration using CFD.
 ## Repository Contents
 - `media/` — CAD renders and CFD visualization plots  
 - `exports/` — STEP/STL files for viewing and reuse  
-- `results/` — summarized numerical outcomes  
 
 ---
 
